@@ -4,6 +4,7 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    text-align: right;
 }
 
 a {
@@ -13,4 +14,221 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+section{
+  display: flex;
+  flex-direction: column;
+  justify-items: start;
+}
+
+ul {
+  text-decoration: none;
+}
+
+* {
+  background-color: black;
+  color: white;
+}
+
+.c3 {
+  border-right-style: solid;
+  padding: 5pt 5pt 5pt 5pt;
+  border-bottom-color: #ffffff00;
+  border-top-width: 1pt;
+  border-right-width: 1pt;
+  border-left-color: #ffffff00;
+  vertical-align: top;
+  border-right-color: #ffffff00;
+  border-left-width: 1pt;
+  border-top-style: solid;
+  border-left-style: solid;
+  border-bottom-width: 1pt;
+  width: 100vw;
+  border-top-color: #ffffff00;
+  border-bottom-style: solid;
+}
+.c4 {
+  border-right-style: solid;
+  padding: 5pt 5pt 5pt 5pt;
+  border-bottom-color: #ffffff00;
+  border-top-width: 1pt;
+  border-right-width: 1pt;
+  border-left-color: #ffffff00;
+  vertical-align: top;
+  border-right-color: #ffffff00;
+  border-left-width: 1pt;
+  border-top-style: solid;
+  border-left-style: solid;
+  border-bottom-width: 1pt;
+  width: 88.5pt;
+  border-top-color: #ffffff00;
+  border-bottom-style: solid;
+}
+.c1 {
+  border-right-style: solid;
+  padding: 5pt 5pt 5pt 5pt;
+  border-bottom-color: #ffffff00;
+  border-top-width: 1pt;
+  border-right-width: 1pt;
+  border-left-color: #ffffff00;
+  vertical-align: top;
+  border-right-color: #ffffff00;
+  border-left-width: 1pt;
+  border-top-style: solid;
+  border-left-style: solid;
+  border-bottom-width: 1pt;
+  width: 100vw;
+  border-top-color: #ffffff00;
+  border-bottom-style: solid;
+}
+.c5 {
+  color: white;
+  font-weight: 400;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-size: 24pt;
+  font-family: "Times New Roman";
+  font-style: italic;
+}
+.c16 {
+  color: white;
+  font-weight: 400;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-family: "Arial";
+  font-style: normal;
+}
+.c19 {
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-size: 24pt;
+  font-family: "Times New Roman";
+  font-style: normal;
+}
+.c0 {
+  color: white;
+  font-weight: 400;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-size: 24pt;
+  font-family: "Times New Roman";
+  font-style: normal;
+}
+.c2 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1.15;
+  orphans: 2;
+  widows: 2;
+  text-align: right;
+}
+.c23 {
+  -webkit-text-decoration-skip: none;
+  color: white;
+  text-decoration: underline;
+  vertical-align: baseline;
+  text-decoration-skip-ink: none;
+  font-style: normal;
+}
+.c15 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1.15;
+  text-align: center;
+  height: 11pt;
+}
+.c7 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1;
+  text-align: right;
+  height: 11pt;
+}
+.c13 {
+  background-color: #ffffff00;
+  font-size: 24pt;
+  font-family: "Times New Roman";
+  font-style: italic;
+  font-weight: 400;
+}
+.c8 {
+  background-color: #ffffff00;
+  font-size: 24pt;
+  font-family: "Times New Roman";
+  color: white;
+  font-weight: 400;
+}
+.c28 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1.5;
+  text-align: right;
+}
+.c14 {
+  font-size: 24pt;
+  font-family: "Times New Roman";
+  color: white;
+  font-weight: 400;
+}
+.c22 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1;
+  text-align: center;
+}
+.c10 {
+  margin-left: auto;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+.c9 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1;
+  text-align: right;
+}
+.c17 {
+  font-size: 24pt;
+  font-family: "Times New Roman";
+  font-style: italic;
+  font-weight: 400;
+}
+.c26 {
+  text-decoration: none;
+  vertical-align: baseline;
+  font-style: normal;
+}
+.c21 {
+  font-size: 24pt;
+  font-family: "Times New Roman";
+  font-weight: 400;
+}
+.c12 {
+  orphans: 2;
+  widows: 2;
+}
+.c27 {
+  max-width: 100vw;
+  padding: 24pt 120pt 120pt 120pt;
+}
+.c18 {
+  background-color: #ffffff00;
+}
+.c20 {
+  height: 23pt;
+}
+.c11 {
+  height: 22pt;
+}
+.c6 {
+  height: 0pt;
+}
+.c25 {
+  color: white;
+}
+.c24 {
+  height: 11pt;
 }
